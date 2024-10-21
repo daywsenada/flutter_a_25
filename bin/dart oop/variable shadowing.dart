@@ -1,5 +1,6 @@
 void main(){
 
+  //variable shadowing
   class Person {
 
     String name = "Guest";
